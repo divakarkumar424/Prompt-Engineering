@@ -10,9 +10,8 @@ Software And Tools Requirements
 
 1. [Github Account](https://github.com)
 2. [OpenAI](https://openai.com/)
-3. [Jupyter Notebook](https://github.com/)
-4. [VSCodeIDE](https://code.visualstudio.com/)
-5. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+3. [Jupyter Notebook](https://jupyter.org/)
+4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 Technology and tools wise this project covers,
 
